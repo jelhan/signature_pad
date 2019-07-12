@@ -1,5 +1,4 @@
 node_modules/
-dist/
-coverage/
+verage/
 tmp/
 yarn-error.log
